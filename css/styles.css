@@ -113,11 +113,9 @@ body {
 
 .hero-button {
   font-family: "Roboto", sans-serif;
-  /* width: 169px; */
-  /* height: 56px; */
+
   background-color: var(--iris);
-  /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); */
-  /* border-radius: 4px; */
+
 
   font-weight: 500;
   font-size: 16px;
@@ -144,7 +142,7 @@ body {
 } */
 
 .technology-list-items {
-  /* width: 264px; */
+
 }
 
 .technology-items-name {
@@ -207,14 +205,10 @@ body {
 
 .team-list-items {
   background: var(--white);
-  /* box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), */
-    /* 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); */
-  /* border-radius: 0px 0px 4px 4px; */
+
 }
 
 .team-item-photo {
-  /* width: 264px; */
-  /* height: 260px; */
 }
 
 .team-person-name {
@@ -287,9 +281,7 @@ letter-spacing: 0.03em;
   letter-spacing: 0.04em;
   color: var(--iris);
   background: var(--cloud);
-  /* box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), */
-    /* 0px 2px 2px rgba(0, 0, 0, 0.12); */
-  /* border-radius: 4px; */
+
 }
 
 /* Works list */
